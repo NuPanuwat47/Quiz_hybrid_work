@@ -63,7 +63,7 @@ npm start
 
 ไฟล์ `.env` มีการกำหนดค่า API:
 ```
-x-api-key=c2deee81a448e2552c5a2fa12e88cfaa9c151f514d448707ad3ebc59e04bc000
+x-api-key=#######
 api_url=https://cis.kku.ac.th/api/classroom/
 ```
 
